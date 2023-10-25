@@ -1,7 +1,7 @@
 CREATE TABLE movie (
     id INT PRIMARY KEY,
     title VARCHAR(30),
-    sinopsis VARCHAR(150)
+    synopsis VARCHAR(150)
 );
 
 CREATE TABLE person (
